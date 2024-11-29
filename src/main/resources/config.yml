@@ -1,0 +1,10 @@
+helpop:
+  cooldown: 30 # in seconds
+  cooldown-message: '&cOdczekaj &4{X}s &cprzed następnym wysłaniem zgłoszenia!'
+  receiver-format: '&8(&4&lHelpop&7-&c{SERVER}&8) &6{PLAYER}&7: &f{MESSAGE}'
+  correct-usage: '&cPoprawne użycie: &4/helpop <treść zgłoszenia>'
+  success: '&aPomyslnie wysłano wiadomość do administracji!'
+
+
+hover:
+  message-gotoserver-reporter: '&eKliknij, aby przejść na serwer zgłaszającego'

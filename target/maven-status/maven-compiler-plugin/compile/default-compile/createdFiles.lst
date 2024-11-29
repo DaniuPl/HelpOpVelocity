@@ -1,0 +1,4 @@
+velocity-plugin.json
+pl\daniu\helpOpVelocity\api\API.class
+pl\daniu\helpOpVelocity\HelpOpVelocity.class
+pl\daniu\helpOpVelocity\commands\HelpOPCommand.class
